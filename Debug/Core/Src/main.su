@@ -1,0 +1,5 @@
+main.c:50:5:main	1192	static
+main.c:279:6:HAL_GPIO_EXTI_Callback	24	static
+main.c:307:6:SPI3_IRQHandler	8	static
+main.c:318:14:UART1_Init	32	static
+main.c:347:14:MX_GPIO_Init	40	static
